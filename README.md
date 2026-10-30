@@ -92,3 +92,19 @@ See [`LICENSE`](LICENSE) for licensing details.
 *Designed for seamless commerce. Built for scale.*
 
 </div>
+
+<div align="center">
+
+## 🏙️ My GitHub City
+
+<a href="https://gitcity.natrajx.in/BlockNotes-4515">
+  <img
+    src="https://gitcity.natrajx.in/api/svg?u=BlockNotes-4515&theme=aurora"
+    alt="BlockNotes-4515 GitHub Contribution Skyline"
+    width="100%"
+  />
+</a>
+
+*Every contribution builds something bigger.*
+
+</div>
