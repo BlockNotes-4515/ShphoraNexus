@@ -1,16 +1,94 @@
-# React + Vite
+<div align="center">
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# SHOPORA NEXUS
 
-Currently, two official plugins are available:
+### Commerce, thoughtfully engineered.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+A modern full-stack e-commerce platform built with React, Spring Boot, and PostgreSQL.
 
-## React Compiler
+<br/>
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+<img src="https://img.shields.io/badge/Java-17-111111?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
 
-## Expanding the ESLint configuration
+<br/><br/>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**Full-Stack Development** &nbsp;·&nbsp; **REST APIs** &nbsp;·&nbsp; **Secure Authentication**
+
+</div>
+
+---
+
+## Overview
+
+**Shopora Nexus** brings together a responsive shopping experience and a structured backend architecture. Built with React and Spring Boot, it combines modern frontend development, RESTful services, and relational data management.
+
+## Features
+
+- **Product Management** — Product browsing and management.
+- **Shopping Cart** — Cart item management.
+- **Order Processing** — E-commerce order workflows.
+- **Authentication & Authorization** — JWT authentication and role-based access control.
+- **RESTful APIs** — Structured communication between frontend and backend.
+- **Database Integration** — Persistent storage using PostgreSQL.
+
+## Technology
+
+| Component | Stack |
+|---|---|
+| Frontend | React · Vite · JavaScript |
+| Backend | Java 17 · Spring Boot |
+| Database | PostgreSQL |
+| Security | JWT · RBAC |
+| Build Tools | Maven · npm |
+| Version Control | Git · GitHub |
+
+## Getting Started
+
+**Prerequisites:** Java 17+, Node.js, npm, and PostgreSQL.
+
+```bash
+# Clone the repository
+git clone https://github.com/YOUR-USERNAME/Shopora-Nexus.git
+cd Shopora-Nexus
+
+# Start the Spring Boot backend
+./mvnw spring-boot:run
+
+# Install dependencies and start the frontend
+npm install
+npm run dev
+```
+
+Run frontend commands from the directory containing its `package.json`. Configure database credentials and required environment variables before starting the backend.
+
+## Deployment
+
+| Service | Platform |
+|---|---|
+| Frontend | Vercel |
+| Backend | Render |
+| Database | PostgreSQL |
+
+*Live deployment links will be added when available.*
+
+## Contributing
+
+Contributions are welcome. Please review [`CONTRIBUTING.md`](CONTRIBUTING.md) before submitting a pull request.
+
+## License
+
+See [`LICENSE`](LICENSE) for licensing details.
+
+---
+
+<div align="center">
+
+### SHOPORA NEXUS
+
+*Designed for seamless commerce. Built for scale.*
+
+</div>
